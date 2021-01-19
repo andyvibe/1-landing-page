@@ -1,1 +1,14 @@
 /*TODO:as vis dar nieko nemoku dar*/
+div {
+    background-color: cyan;
+display: inline-block;
+}
+img {
+  display: block;
+    background-color: darkgoldenrod;
+    max-width: 100%;
+    align-self: center;
+}
+#img-caption {
+    background-color: greenyellow;
+}
